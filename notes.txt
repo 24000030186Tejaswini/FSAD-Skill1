@@ -1,2 +1,3 @@
-This is a notes file for Skill-1 Full Stack Git Practice
-Feature update branch: added extra notes for Skill 1.
+This is Skill 1 Git Version Control experiment.
+Feature update and bug fix branches are used.
+
